@@ -7,7 +7,6 @@ Interactive SmoothLife fork on PyQtGraph
 
 Written in Python using `numpy` and explained (hopefully) without too much fancy math.
 https://github.com/duckythescientist/SmoothLife
-![SmoothLife](img/smoothlife.gif)
 
 It is realllyy awesome
 
