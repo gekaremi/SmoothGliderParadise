@@ -50,4 +50,8 @@ so
 
 gangster -> glider
 
-paradise ~ "The Garden of Eden (Hebrew גַּן עֵדֶן, Gan ʿEḏen), also called Paradise" 
+paradise ~ "The Garden of Eden (Hebrew גַּן עֵדֶן, Gan ʿEḏen), also called Paradise"
+
+
+# CHECK ALSO
+https://www.heatonresearch.com/mergelife/
