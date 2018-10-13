@@ -39,7 +39,11 @@ But I think (probably mistakenly) that it would be nice to add the ability to dr
 
 ehhh
 
+
 smooth -> smooth criminal -> gangster paradise and it if game of life
+
 so
+
 gangster -> glider
-paradise ~ heaven(gardens of)
+
+paradise ~ "The Garden of Eden (Hebrew גַּן עֵדֶן, Gan ʿEḏen), also called Paradise" 
