@@ -1,6 +1,6 @@
 # SmoothGliderParadise
 Interactive SmoothLife fork on PyQtGraph
-[/gliderparadise.png]
+![SmoothGliderParadise](gliderparadise.png)
 # Totally Based on SmoothLife
 (even readme)
 
