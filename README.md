@@ -3,16 +3,20 @@ Interactive SmoothLife fork on PyQtGraph
 
 # Totally Based on SmoothLife
 (even readme)
+
 "Generalization of Conway's "Game of Life" to a continuous domain - SmoothLife"
 
 Written in Python using `numpy` and explained (hopefully) without too much fancy math.
+
 https://github.com/duckythescientist/SmoothLife
 
 It is realllyy awesome
 
 # but now with using PyQtGraph
 Scientific Graphics and GUI Library for Python
+
 https://github.com/pyqtgraph/pyqtgraph
+
 Especially scripts examples ImageItem.py and Draw.py
 
 and this is too
